@@ -4,7 +4,7 @@
 <p>A classe BoxTitle herda de Box e é uma Box especializada para exibir títulos.</p>
 <p>O arquivo BoxTest.java demonstra o uso das classes</p>
 <p>Abaixo vemos os prints da execução deste teste.</p>
-<p> ![ ](https://github.com/arataca89/java/blob/main/Box/box1.png) </p>
+<p> ![ ]("https://github.com/arataca89/java/blob/main/Box/box1.PNG") </p>
 <p> ![ ](https://github.com/arataca89/java/blob/main/Box/box2.PNG) </p>
 <p> ![ ](https://github.com/arataca89/java/blob/main/Box/box3.PNG) </p>
 <p> ![ ](https://github.com/arataca89/java/blob/main/Box/box4.PNG) </p>
