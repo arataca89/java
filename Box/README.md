@@ -9,5 +9,5 @@
 <p><img src="https://github.com/arataca89/java/blob/main/Box/box3.PNG"></p>
 <p><img src="https://github.com/arataca89/java/blob/main/Box/box4.PNG"></p>
 <p>arataca89@gmail.com</p>
-<p>Aulas particulares de programção</p>
+<p>Aulas particulares de programação</p>
 <p></p>
