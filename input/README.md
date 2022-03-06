@@ -6,4 +6,5 @@ public static void main(String[] args) throws IOException{
       
 }
 </pre>
+<p>A classe <a href="https://github.com/arataca89/java/blob/main/InputTest.java">InputTest</a> testa este pacote.</p>
  
