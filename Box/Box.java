@@ -14,19 +14,19 @@ package box;
  * arataca89@gmail.com
  * Aulas particulares de programacao.
  */
-class Box{
+public class Box{
     protected int n; // numero de linhas da Box
     protected int m; // numero de colunas da Box
     protected char matriz[][]; // matriz que define a Box
 
-    Box(){
+    public Box(){
         n = 3;
         m = 15;
         matriz = new char[n][m];
         border(true);
     }
 
-    Box(int nn, int mm){
+    public Box(int nn, int mm){
         n = nn;
         m = mm;
         matriz = new char[n][m];
@@ -139,15 +139,6 @@ class Box{
         }
     }
 } // fim da classe Box
-
-class BoxTitle extends Box{
-    private String text;
-    BoxTitle(String s){
-        super(3, s.length() + 4);
-        border(true);
-        insertString(s, 1, 2);
-    }
-}
 
 // fim do arquivo Box.java
 // arataca89@gmail.com
