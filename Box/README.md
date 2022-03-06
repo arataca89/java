@@ -2,7 +2,7 @@
 
 <p>A classe Box implementa uma matriz bidimensional de caracteres para ser usada em softwares CLI (com interface de linha de comando).</p>
 <p>A classe BoxTitle herda de Box e é uma Box especializada para exibir títulos.</p>
-<p>O arquivo BoxTest.java demonstra o uso das classes.</p>
+<p>O arquivo <a href="https://github.com/arataca89/java/blob/main/BoxTest.java">BoxTest.java</a> demonstra o uso das classes.</p>
 <p>Abaixo vemos os prints da execução deste teste.</p>
 <p><img src="https://github.com/arataca89/java/blob/main/Box/box1.PNG"></p>
 <p>Abaixo temos a inserção de string na Box. Observe que o programador deve cuidar com a posição inicial e com o tamanho da string
