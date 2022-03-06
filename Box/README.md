@@ -1,4 +1,4 @@
-# Pacote Box
+# Pacote box
 
 <p>A classe <a href="https://github.com/arataca89/java/blob/main/Box/Box.java">Box</a> implementa uma matriz bidimensional de caracteres para ser usada em softwares CLI (com interface de linha de comando).</p>
 <p>A classe <a href="https://github.com/arataca89/java/blob/main/Box/BoxTitle.java">BoxTitle</a> herda de Box e é uma Box especializada para exibir títulos.</p>
