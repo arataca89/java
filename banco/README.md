@@ -18,4 +18,4 @@
 <p><img src="https://github.com/arataca89/java/blob/main/banco/%2314.PNG"></p>
 <p><img src="https://github.com/arataca89/java/blob/main/banco/%2315.PNG"></p>
 <p><img src="https://github.com/arataca89/java/blob/main/banco/%2316.PNG"></p>
-<p>A aplicação precisa de melhoramentos, mas para o objetivo a que se propôs, de praticar orientação a objetos com java, ela foi excelente</p>
+<p>A aplicação precisa de melhoramentos, mas para o objetivo a que se propôs, de praticar orientação a objetos com java, ela foi excelente.</p>
