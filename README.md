@@ -8,6 +8,7 @@
 ## Links
 [libgdx](https://github.com/libgdx/libgdx) - Cross-platform Game Development Framework
 
+<hr>
 <p></p>
 <p>arataca89@gmail.com</p>
 <p>Aulas particulares de programação</p>
