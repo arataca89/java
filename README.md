@@ -5,6 +5,9 @@
 
 <p><a href="https://github.com/arataca89/java/tree/main/banco">Pacote banco</a>: implementa uma solução para o desafio <tt>Criando um Banco Digital com Java e Orientação a Objetos</tt> apresentado em um bootcamp da <a href="https://www.dio.me/">DIO</a>.</p>
 
+## Links
+[libgsx](https://github.com/libgdx/libgdx)
+
 <p></p>
 <p>arataca89@gmail.com</p>
 <p>Aulas particulares de programação</p>
