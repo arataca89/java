@@ -6,8 +6,8 @@
 <p><a href="https://github.com/arataca89/java/tree/main/banco">Pacote banco</a>: implementa uma solução para o desafio <tt>Criando um Banco Digital com Java e Orientação a Objetos</tt> apresentado em um bootcamp da <a href="https://www.dio.me/">DIO</a>.</p>
 
 ## Links
-[libgdx](https://github.com/libgdx/libgdx) - Cross-platform Game Development Framework
-[JavaFX](https://openjfx.io/index.html) - Conjunto de pacotes gráficos e de mídia
+- [libgdx](https://github.com/libgdx/libgdx) - Cross-platform Game Development Framework
+- [JavaFX](https://openjfx.io/index.html) - Conjunto de pacotes gráficos e de mídia
 <hr>
 <p></p>
 <p>arataca89@gmail.com</p>
