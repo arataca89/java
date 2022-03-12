@@ -1,0 +1,12 @@
+Java eh uma linguagem de programacao orientada a objetos desenvolvida
+na decada de 90 por uma equipe de programadores chefiada por James
+Gosling, na empresa Sun Microsystems. Em 2008 o Java foi adquirido
+pela empresa Oracle Corporation. Diferente das linguagens de
+programacao modernas, que sao compiladas para codigo nativo,
+a linguagem Java eh compilada para um bytecode que eh interpretado
+por uma maquina virtual (Java Virtual Machine, mais conhecida
+ela sua abreviacao JVM). A linguagem de programacao Java eh a
+linguagem convencional da Plataforma Java, mas nao eh a sua
+unica linguagem. J2ME Para programas e jogos de computador, celular,
+
+asd
